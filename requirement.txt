@@ -1,0 +1,8 @@
+youtube-transcript-api
+phidata
+google-generativeai
+pgvector
+sqlalchemy
+psycopg
+uvicorn
+fastapi
