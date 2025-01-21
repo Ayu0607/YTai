@@ -1,4 +1,4 @@
-his project is a Python-based backend application that allows users to input the URL of any YouTube video.
+This project is a Python-based backend application that allows users to input the URL of any YouTube video.
 The application fetches the video captions, summarizes them, and provides an AI-based interface to answer questions related to the content of the captions.
 Features:
 1.YouTube Video URL Input: Accepts the URL of a YouTube video.
